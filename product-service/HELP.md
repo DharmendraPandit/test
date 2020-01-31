@@ -75,4 +75,6 @@ These additional references should also help you:
 * brand could be, Puma/Nike/Adidas/Reebok
 * groupBy could be, brand/price/color/size
 
-
+### Build Steps:
+* ./gradlew build
+* ./gradlew clean bootRun
