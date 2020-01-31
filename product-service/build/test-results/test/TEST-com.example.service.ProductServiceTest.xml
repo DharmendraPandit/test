@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.service.ProductServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-31T03:36:57" hostname="192.168.1.5" time="0.509">
+  <properties/>
+  <testcase name="searchNoSearchFound()" classname="com.example.service.ProductServiceTest" time="0.491"/>
+  <testcase name="searchSuccess()" classname="com.example.service.ProductServiceTest" time="0.007"/>
+  <testcase name="searchInvalidInput()" classname="com.example.service.ProductServiceTest" time="0.004"/>
+  <testcase name="searchWithoutGrouping()" classname="com.example.service.ProductServiceTest" time="0.002"/>
+  <testcase name="searchWrongInputForGroupBy()" classname="com.example.service.ProductServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+server:
+  port: 8080
+  servlet:
+    contextPath: /products
+
+spring:
+  application:
+    name: product-service
+  profiles:
+    active: local
+
